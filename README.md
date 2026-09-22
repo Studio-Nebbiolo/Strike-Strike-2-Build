@@ -1,15 +1,14 @@
-# Strike-Strike 2 — Windows 테스트 빌드
+# Bankshot
 
-## 최신 버전: BANKSHOT 구조·타격감 개선 · 2026-09-22
+[Windows 빌드 다운로드 — 약 74 MB](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/releases/download/bankshot-lobby-2026-09-22/Bankshot-Windows-x64-2026-09-22.zip)
 
-[최신 Windows 빌드 다운로드](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/releases/tag/bankshot-impact-2026-09-22)
+ZIP 전체를 압축 해제한 뒤 `Bankshot.exe`를 실행하세요. Unity 설치는 필요 없습니다.
 
-릴리스 Assets의 ZIP을 내려받아 **전체 압축 해제 후 `StrikeStrike2.exe`를 실행**하세요. Unity Editor와 Node.js 설치는 필요하지 않습니다. 동봉 폴더와 DLL을 함께 유지해주세요.
+게임 시작 → 방 만들기 → 대기실에서 Bankshot / Dust2 선택 → 봇 추가 → 게임 시작.
+방장이 맵을 바꿔도 방 코드와 참가자·개별 봇 난이도가 유지됩니다. 1–24라운드를 설정할 수 있습니다.
 
-**게임 시작 → BANKSHOT → 방 만들기**에서 봇과 테스트할 수 있습니다. 기존 Dust2도 선택 가능합니다.
+최신 비대칭 A·미드·B 맵, 램프·도탄 전투, 타격음·피격 효과를 포함합니다. 기존 Dust2를 보존했습니다.
 
-최신 빌드는 맵 내 글씨 제거, 실내 통로·진입로·우회 동선 추가, 명중음·작은 파편·처치 반응 개선을 포함합니다.
+웹 빌드도 준비·검증됐으며, 기존 웹 저장소의 쓰기 권한 확인 후 게시할 예정입니다.
 
-정식 출시 전 테스트 빌드이며 밸런스는 조정 중입니다.
-
-[이전 빌드 목록](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/releases)
+개발 테스트 빌드이며 Steam App ID 480을 사용합니다.
