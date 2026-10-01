@@ -1,3 +1,17 @@
+# Strike-Strike 2 — Mirage 추가 빌드 (2026-10-01)
+
+[Windows 실행 파일 다운로드 — 약 95 MB](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/raw/main/StrikeStrike2-Mirage/StrikeStrike2-Mirage-2026-10-01-win-x64.exe)
+
+설치 없이 exe 하나만 실행하면 됩니다. 게임 서버가 안에 들어 있어서 바로 봇전이 됩니다.
+
+- 방 만들기 → 대기실의 **맵**에서 **Mirage** 선택 → 봇 추가 → 게임 시작
+- Mirage 는 CS:GO 공식 `de_mirage` 지오메트리를 그대로 변환한 맵입니다 (레이아웃·높이·엄폐물 동일, 원본 텍스처 없음).
+  사다리 2곳은 아직 지원되지 않습니다.
+- 서명되지 않은 개발 빌드라 Windows SmartScreen 경고가 뜰 수 있습니다 → "추가 정보" → "실행".
+- SHA256: `df0b4e65cc68799ed2160581dd836e6d7c79b5aadb5ba52be080c5f46e93883f`
+
+---
+
 # Bankshot
 
 [Windows 빌드 다운로드 — 약 75 MB](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/releases/download/bankshot-pve-2026-09-25/Bankshot-Windows-x64-2026-09-25.zip)
