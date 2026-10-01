@@ -1,20 +1,9 @@
-# Strike-Strike 2 — Mirage 추가 빌드 (2026-10-01)
-
-[Windows 실행 파일 다운로드 — 약 95 MB](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/raw/main/StrikeStrike2-Mirage/StrikeStrike2-Mirage-2026-10-01-win-x64.exe)
-
-설치 없이 exe 하나만 실행하면 됩니다. 게임 서버가 안에 들어 있어서 바로 봇전이 됩니다.
-
-- 방 만들기 → 대기실의 **맵**에서 **Mirage** 선택 → 봇 추가 → 게임 시작
-- Mirage 는 CS:GO 공식 `de_mirage` 지오메트리를 그대로 변환한 맵입니다 (레이아웃·높이·엄폐물 동일, 원본 텍스처 없음).
-  사다리 2곳은 아직 지원되지 않습니다.
-- 서명되지 않은 개발 빌드라 Windows SmartScreen 경고가 뜰 수 있습니다 → "추가 정보" → "실행".
-- SHA256: `df0b4e65cc68799ed2160581dd836e6d7c79b5aadb5ba52be080c5f46e93883f`
-
----
-
 # Bankshot
 
-[Windows 빌드 다운로드 — 약 75 MB](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/releases/download/bankshot-pve-2026-09-25/Bankshot-Windows-x64-2026-09-25.zip)
+최신 Windows: Mirage 추가 및 Bankshot 단차 수정 포함 (2026-10-01).
+[최신 릴리즈](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/releases/tag/bankshot-mirage-2026-10-01)
+
+[Windows 빌드 다운로드 — 약 79 MB](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/releases/download/bankshot-mirage-2026-10-01/Bankshot-Windows-x64-2026-10-01.zip)
 
 ZIP 전체를 압축 해제한 뒤 `Bankshot/Bankshot.exe`를 실행하세요. Unity 설치는 필요 없습니다.
 
@@ -30,7 +19,7 @@ ZIP 전체를 압축 해제한 뒤 `Bankshot/Bankshot.exe`를 실행하세요. U
 
 ## 기존 PvP
 
-대기실에서 Bankshot / Dust2 선택 → 봇 추가 → 게임 시작.
+대기실에서 Bankshot / Dust2 / Mirage 선택 → 봇 추가 → 게임 시작.
 방장이 맵을 바꿔도 방 코드와 참가자·개별 봇 난이도가 유지됩니다. 1–24라운드를 설정할 수 있습니다.
 비대칭 A·미드·B 맵, 램프·도탄 전투, 타격음·피격 효과와 UI 개선을 포함하며 기존 Dust2도 유지합니다.
 
@@ -43,3 +32,4 @@ ZIP 전체를 압축 해제한 뒤 `Bankshot/Bankshot.exe`를 실행하세요. U
 [릴리즈 및 플레이테스트 보고서](https://github.com/Studio-Nebbiolo/Strike-Strike-2-Build/releases/tag/bankshot-pve-2026-09-25)에 실행 안내, 자동 테스트 결과와 SHA256 체크섬을 첨부했습니다. 자동 테스트는 사람이 참여한 재미 검증을 대신하지 않습니다.
 
 개발 테스트용 프리릴리즈이며 Steam App ID 480을 사용합니다.
+
